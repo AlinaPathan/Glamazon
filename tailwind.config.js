@@ -12,7 +12,7 @@ export default {
         'Thistle': '  #D1B3C4', 
         'Rosequartz':' #9C7A95',
          //#B392AC
-        'ChineseViolet': '#735D78', //Darkest
+        'ChineseViolet':  '#735D78', //Darkest   #624A67 more dark
         'FaintPale': ' #FFF4F2', 
         'FaintThistle':'  #E2CBD8'
       }, 
